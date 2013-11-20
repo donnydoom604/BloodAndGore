@@ -1,0 +1,114 @@
+################################################################
+			BloodAndGore Default config file	      		
+################################################################
+
+# Hellow there, thank you for using my plugin,
+# In this file you can change the "color" of the blood, and 
+# adjust how many particles the blood should be.
+
+# ONLY use blocks! Using items will crash the client! 
+
+# Passive mobs // ONLY Item id's ^-^
+
+chicken:
+  enabled: true
+  material: 152
+  amount: 35
+cow:
+  enabled: true
+  material: 152
+  amount: 35
+ocelot:
+  enabled: true
+  material: 152
+  amount: 35
+pig:
+  enabled: true
+  material: 152
+  amount: 35
+sheep:
+  enabled: true
+  material: 152
+  amount: 35
+horse: 
+  enabled: true
+  material: 152
+  amount: 35
+squid:
+  enabled: true
+  material: 152
+  amount: 35
+bat: 
+  enabled: true
+  material: 152
+  amount: 35
+villager: 
+  enabled: true
+  material: 152
+  amount: 35
+mooshroom:
+  enabled: true
+  material: 152
+  amount: 35
+
+
+# Neutral mobs
+
+cavespider:
+  enabled: true
+  material: 152
+  amount: 35
+enderman:
+  enabled: true
+  material: 49
+  amount: 35
+spider:
+  enabled: true
+  material: 152
+  amount: 35
+wolf: 
+  enabled: true
+  material: 152
+  amount: 35
+pigman:
+  enabled: true
+  material: 152
+  amount: 35
+
+
+# Agressive mobs 
+
+blaze:
+  enabled: true
+  material: 11
+  amount: 35
+creeper:
+  enabled: true
+  material: 154
+  amount: 35
+ghast:
+  enabled: true
+  material: 152
+  amount 35
+silverfish:
+  enabled: true
+  material: 152
+  amount: 35
+skeleton:
+  enabled: true
+  material: 30
+  amount: 35
+witch:
+  enabled: true
+  material: 152
+  amount: 35
+witherskeleton:
+  enabled: true
+  material: 154
+  amount: 35
+zombie:
+  enabled: true
+  material: 152
+  amount: 35
+
+# Yepp, that's all, I hope you and your players will have fun!
