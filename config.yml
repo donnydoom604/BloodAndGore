@@ -107,10 +107,6 @@ witch:
   enabled: true
   material: 152
   amount: 35
-witherskeleton:
-  enabled: true
-  material: 154
-  amount: 35
 zombie:
   enabled: true
   material: 152
