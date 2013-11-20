@@ -8,6 +8,11 @@
 
 # ONLY use blocks! Using items will crash the client! 
 
+player:
+  enabled: true
+  material:152
+  amount: 35
+
 # Passive mobs // ONLY Item id's ^-^
 
 chicken:
